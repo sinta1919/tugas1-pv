@@ -1,0 +1,8 @@
+C:\Users\user\OneDrive\Documents\SharpDevelop Projects\tugas pv\tugas pv\bin\Debug\tugas pv.exe.config
+C:\Users\user\OneDrive\Documents\SharpDevelop Projects\tugas pv\tugas pv\bin\Debug\tugas pv.exe
+C:\Users\user\OneDrive\Documents\SharpDevelop Projects\tugas pv\tugas pv\bin\Debug\tugas pv.pdb
+C:\Users\user\OneDrive\Documents\SharpDevelop Projects\tugas pv\tugas pv\obj\Debug\tugas pv.csprojResolveAssemblyReference.cache
+C:\Users\user\OneDrive\Documents\SharpDevelop Projects\tugas pv\tugas pv\obj\Debug\tugas_pv.MainForm.resources
+C:\Users\user\OneDrive\Documents\SharpDevelop Projects\tugas pv\tugas pv\obj\Debug\tugas pv.csproj.GenerateResource.Cache
+C:\Users\user\OneDrive\Documents\SharpDevelop Projects\tugas pv\tugas pv\obj\Debug\tugas pv.exe
+C:\Users\user\OneDrive\Documents\SharpDevelop Projects\tugas pv\tugas pv\obj\Debug\tugas pv.pdb
